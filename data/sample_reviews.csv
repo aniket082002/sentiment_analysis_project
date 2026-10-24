@@ -1,0 +1,21 @@
+review,sentiment
+"I love this wonderful product",positive
+"Absolutely fantastic quality",positive
+"Great service and quick delivery",positive
+"Excellent item highly recommended",positive
+"Very happy with this purchase",positive
+"Amazing value for money",positive
+"This was a delightful experience",positive
+"Works perfectly and looks great",positive
+"Superb quality and helpful staff",positive
+"The best thing I bought",positive
+"I hate this terrible product",negative
+"Very bad quality",negative
+"Awful service and slow delivery",negative
+"Worst item ever bought",negative
+"Completely disappointed with this purchase",negative
+"Poor value for money",negative
+"This was a horrible experience",negative
+"Broken product and bad packaging",negative
+"Terrible quality and rude staff",negative
+"The worst thing I bought",negative
